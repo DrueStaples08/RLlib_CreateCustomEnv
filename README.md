@@ -1,6 +1,6 @@
 # Custom chain environment that is compatible with Ray RLlib 
 
-Here I created a custom environmet which is similar to N-Chain but with some slight variations. 
+Here I created a custom environment which is similar to N-Chain but with some slight variations. 
 
 states: 10 Discrete, i.e. 0-9
 
