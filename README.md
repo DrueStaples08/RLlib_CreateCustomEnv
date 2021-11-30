@@ -2,7 +2,7 @@
 Customized environment compatible with Ray RLlib
 
 
-# This is a custom chain environment that is compatibale with Ray RLlib 
+# Custom chain environment that is compatible with Ray RLlib 
 
 states: 10 Discrete, i.e. 0-9
 
