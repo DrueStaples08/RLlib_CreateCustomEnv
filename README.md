@@ -21,8 +21,11 @@ max steps: 10
 -clone environment
 
 pip install ray ray[rllib]
+
 pip install gym
+
 pip install numpy
+
 pip install matplotlib
 
 
