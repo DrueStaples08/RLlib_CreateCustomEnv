@@ -31,6 +31,11 @@ Follow the workflow_example.ipynb notebook to try it yourself!
 
 
 # References
+Nicholas Renotte
+
 https://www.youtube.com/watch?v=bD6V3rcr_54
+
+
+Paco Nathan
 
 https://medium.com/distributed-computing-with-ray/anatomy-of-a-custom-environment-for-rllib-327157f269e5
