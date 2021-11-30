@@ -1,7 +1,3 @@
-# RLlib_CreateCustomEnv
-Customized environment compatible with Ray RLlib
-
-
 # Custom chain environment that is compatible with Ray RLlib 
 
 states: 10 Discrete, i.e. 0-9
