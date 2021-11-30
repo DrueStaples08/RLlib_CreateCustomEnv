@@ -14,7 +14,7 @@ max steps: 10
 # Install requirements
 
 
--clone environment
+git clone https://github.com/DrueStaples08/RLlib_CreateCustomEnv.git
 
 pip install ray ray[rllib]
 
