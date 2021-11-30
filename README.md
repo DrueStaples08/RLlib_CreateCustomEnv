@@ -27,6 +27,7 @@ pip install matplotlib
 
 Follow the workflow_example.ipynb notebook to try it yourself!
 
+![nchain](https://user-images.githubusercontent.com/48110880/143995995-829006d7-ffff-4ef7-9c44-34064e2d25a3.png)
 
 
 # References
