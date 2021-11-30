@@ -25,7 +25,7 @@ pip install numpy
 pip install matplotlib
 
 
-Follow the workflow_example.ipynb notebook to try it yourself!
+Follow the workflow_example.ipynb notebook to try it yourself!This example is showing the performance of Proximal Policy Optimization
 
 ![nchain](https://user-images.githubusercontent.com/48110880/143995995-829006d7-ffff-4ef7-9c44-34064e2d25a3.png)
 
